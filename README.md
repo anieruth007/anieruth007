@@ -1,83 +1,32 @@
-# Hi, I'm Anieruth 👋
+# Hi, I'm Anieruth
 
-🎓 Integrated M.Tech CSE (Business Analytics) @ VIT Chennai
-📊 Data Science | Machine Learning | Real-Time Systems
-⚡ Building scalable and intelligent systems with real-world impact
+I am an Integrated M.Tech student in Computer Science and Engineering (Business Analytics) at VIT Chennai. My work focuses on building practical machine learning systems and data-driven solutions, particularly in industrial and real-time environments.
 
----
+I am interested in predictive maintenance, time series modeling, and distributed learning systems. I also enjoy working on real-time data pipelines and exploring how data can be used to support better decision-making.
 
-## 🚀 About Me
+## Technical Skills
 
-* 🔍 Focused on **Predictive Maintenance & Industrial AI**
-* 🧠 Working with **LSTM, Federated Learning & Time-Series Modeling**
-* ⚙️ Experienced in **real-time data systems using Kafka**
-* 📈 Strong interest in **data-driven decision systems**
+Python, SQL, R, Java
 
----
+Scikit-learn, TensorFlow, Pandas, NumPy
 
-## 🛠️ Tech Stack
+Apache Kafka, Docker, MongoDB, MySQL
 
-**Languages:**
-Python | SQL | R | Java
+## Projects
 
-**ML / Data:**
-Scikit-learn | TensorFlow | Pandas | NumPy
+**Predictive Maintenance System**
+Developed a machine learning model to predict machine failures using industrial sensor data. The system also identifies specific failure types such as TWF, HDF, PWF, OSF, and RNF.
 
-**Systems & Tools:**
-Kafka | Docker | MongoDB | MySQL
+**Federated Learning for Predictive Maintenance**
+Designed a decentralized training setup where multiple clients train models locally and contribute to a shared global model, improving data privacy without centralizing data.
 
----
+**Real-Time Data Pipeline using Kafka**
+Implemented a producer–consumer architecture to simulate real-time industrial data streams, focusing on scalability and continuous data processing.
 
-## 📌 Key Projects
+**LiFi-Based Communication System**
+Built a prototype for data transmission using visible light communication, demonstrating an alternative approach to wireless communication systems.
 
-### 🔧 Predictive Maintenance System
+## Contact
 
-* Built an **LSTM-based model** to predict machine failures
-* Classified **failure types (TWF, HDF, PWF, OSF, RNF)**
-* Designed using real industrial dataset (AI4I 2020)
-
----
-
-### 🌐 Federated Learning for Predictive Maintenance
-
-* Simulated **multi-client architecture** with decentralized training
-* Implemented **local model training + global aggregation**
-* Improved privacy by avoiding centralized data sharing
-
----
-
-### ⚡ Real-Time Data Pipeline (Kafka)
-
-* Developed **producer–consumer architecture**
-* Simulated real-time machine/industrial data streams
-* Enabled scalable and fault-tolerant processing
-
----
-
-### 💡 LiFi-Based Communication System
-
-* Built a **light-based data transmission prototype**
-* Demonstrated secure, high-speed communication using LEDs
-* Explored alternative wireless communication systems
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anieruth007&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anieruth007&layout=compact&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🤝 Connect with Me
-
-* 💼 LinkedIn: https://linkedin.com/in/anieruth-sridhar
-* 💻 GitHub: https://github.com/anieruth007
-
----
-
-<p align="center">
-  <i>Building real systems, not just models.</i>
-</p>
+LinkedIn: https://linkedin.com/in/anieruth-sridhar
+GitHub: https://github.com/anieruth007
